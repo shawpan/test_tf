@@ -1,5 +1,5 @@
 # test_tf
-Quick implementation of  TensoFlow codes. Initially created to to reproduce a BUG of tf-serving 
+Quick implementation of  TensoFlow codes. Initially created to reproduce a BUG of tf-serving 
 
 
 ## Steps
